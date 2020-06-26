@@ -1,0 +1,26 @@
+#game div {
+  border: 6px rgba(87, 75, 75, 0.788);
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 40px;
+  border-style: outset;
+  /* margin-left: 4%;
+  margin-right: 4%; */
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* background: linear-gradient(100deg,rgb(119, 58, 58), blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  text-align: center;
+  color: rgb(65, 47, 47);
+  
+}
+
+body{
+  background-image: linear-gradient(rgb(253, 245, 245), rgb(126, 126, 141), rgba(131, 133, 228, 0.664));
+  height: 100vh;
+}
